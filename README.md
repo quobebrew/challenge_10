@@ -27,3 +27,19 @@ The key steps of the project are as follows:
 ### Conclusion
 
 Through this project, valuable insights into the world of cryptocurrency investments are provided, showcasing the integration of advanced machine learning techniques with financial analysis. The innovative approach promises to offer a competitive edge in an increasingly challenging financial landscape.
+
+### Graphs
+# Plot your data to see what's in your DataFrame
+![DataFrame](market_data_line_plot.png)
+# Elbow Curve Normal model
+![Elbow Curve Normal](elbow_curve.png)
+# Cluster Normal model
+![Cluster Plot Normal](k_means_plot.png)
+# Elbow Curve PCA model
+![Elbow Curve PCA model](elbpw_curve_pca.png)
+# PCA Cluster Plot
+![PCA Cluster Plot](k_means_plot_pca.png)
+# Comparison of Elbow Curve
+![Comparision of Elbow Curve](composite_plot_elbow_curves.png)
+# Comparison of Clusters
+![Comparisons of Clusters](composite_plot_clusters.png)
